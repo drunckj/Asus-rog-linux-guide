@@ -69,3 +69,5 @@ sudo intel-undervolt apply                   #to apply ur settings
 the values in the screenshot are safe for i5 variants on intel graphics
 ## Gpu switch for manjaro or arch
 -will be updated soon
+## rgb control
+ive compiled rgb control in this repo : https://github.com/drunckj/rog-rgb-control

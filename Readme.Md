@@ -65,7 +65,7 @@ sudo intel-undervolt read                    #to read your present voltage setti
 sudo nano /etc/intel-undervolt.conf          #to edit ur config replace 0 after cpu and gpu to make it look like in the screenshot below 
 sudo intel-undervolt apply                   #to apply ur settings
 ```
-![Intel-undervolt](https://imgur.com/FNbgBHB)
+![Intel-undervolt](https://i.imgur.com/FNbgBHB.jpg)
 the values in the screenshot are safe for i5 variants on intel graphics
 ## Gpu switch for manjaro or arch
 -will be updated soon

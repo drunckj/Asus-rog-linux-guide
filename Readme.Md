@@ -71,3 +71,4 @@ the values in the screenshot are safe for i5 variants on intel graphics
 -will be updated soon
 ## rgb control
 ive compiled rgb control in this repo : https://github.com/drunckj/rog-rgb-control
+Want to buy me a coffee: https://www.paypal.me/drunkcj
